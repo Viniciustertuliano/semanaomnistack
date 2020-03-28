@@ -1,2 +1,2 @@
 # semanaomnistack
-Intevão de desenvolvimento Node, React e React-Native
+Intensivão de desenvolvimento Node, React e React-Native
